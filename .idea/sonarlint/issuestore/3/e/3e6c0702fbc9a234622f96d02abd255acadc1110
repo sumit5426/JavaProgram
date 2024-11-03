@@ -1,0 +1,11 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù™Œz8Ù÷™¥2J$b7a2fbc9-5697-4fbf-89be-d726b2dbf219
+
+java:S18540"<Remove this useless assignment to local variable "invisble".(œŸœ´8¯ù™¥2J$b698e9ec-d4c2-4dbb-8d47-f23ed9fe3d61
+¹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¹ù™¥2J$935a8f72-88e7-4d35-8a12-5b3118c7a26a
+r	java:S106)"+Replace this use of System.out by a logger.(ÖÒ–ñûÿÿÿÿ8úù™¥2J$657e165a-9c23-48e1-83ba-88b447579d45
+p
+java:S14810"-Remove this unused "invisble" local variable.(œŸœ´8…ú™¥2J$52565097-7bd0-4b75-b8dc-279ff7d21eb9
+ƒ	java:S1251"<This block of commented-out lines of code should be removed.(Ï‡‰ßùÿÿÿÿ8Šú™¥2J$93402923-7e5e-48ed-a0fc-e3d6a699216a
+ƒ	java:S125F"<This block of commented-out lines of code should be removed.(âÃ¶ïÿÿÿÿÿ8«ú™¥2J$5bba90f0-3f93-4fd6-b1b2-2f1eba4d5e53

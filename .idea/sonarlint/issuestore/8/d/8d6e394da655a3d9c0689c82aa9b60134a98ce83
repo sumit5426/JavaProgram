@@ -1,0 +1,12 @@
+
+]
+java:S1220""Move this file to a named package.8¤²Ý’®2J$af4fdde0-3d06-4973-a16d-92914dfec867
+™
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æþÿÿÿÿ8˜›Þ’®2J$a54928d3-6ba3-4981-b881-ab2e6d149674
+§
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(€‹áÈùÿÿÿÿ8ê³Ý’®2J$487fc525-690b-4676-9711-8a5b292fee16
+§
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(€‹áÈùÿÿÿÿ8‹´Ý’®2J$73e2c15a-24ce-42c8-9794-5e22b8999cf8
+r	java:S106"+Replace this use of System.out by a logger.(‰œ¼ãþÿÿÿÿ8¡´Ý’®2J$78f948b2-040a-4266-b91e-9ad877703cef
+i
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8¤›Þ’®2J$8f377cec-42ae-479c-95d7-1733f58d4e62

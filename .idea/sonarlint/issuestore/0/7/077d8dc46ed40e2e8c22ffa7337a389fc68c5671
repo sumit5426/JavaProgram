@@ -1,0 +1,25 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù™Œz8ßâ¨Ž¬2J$c56c9eb6-e278-49bd-9635-1152f7adb51a
+{
+java:S18543"8Remove this useless assignment to local variable "wait".(­šæ°8œä¨Ž¬2J$d95f0bae-aa9a-444a-a230-66d2a7318a24
+~	java:S125"<This block of commented-out lines of code should be removed.(±†¶É8¯ä¨Ž¬2J$7c585acd-7270-4e66-89fd-b5074bd8df20
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ôµÿšÿÿÿÿÿ8Þä¨Ž¬2J$57ec977f-3fe2-4764-9a14-5bcbb710e1b4
+r	java:S106$"+Replace this use of System.out by a logger.(ö¶Ãôþÿÿÿÿ8éä¨Ž¬2J$98f1b80e-8001-46e9-bbb6-f1b975cd2a75
+r	java:S106&"+Replace this use of System.out by a logger.(Öáå”üÿÿÿÿ8ôä¨Ž¬2J$b54ea7be-2421-41bd-8b0c-163ada393e7d
+n
+java:S1481)"+Remove this unused "dpdown" local variable.(‡Ä§¡8üä¨Ž¬2J$0785ace7-837b-4db0-8489-44bf05614de3
+~	java:S125*"<This block of commented-out lines of code should be removed.(ûîŸ‘8ýä¨Ž¬2J$d966dbdc-496e-4318-acd7-a0a88907d2b5
+r	java:S106-"+Replace this use of System.out by a logger.(Ø½ú¢úÿÿÿÿ8ƒå¨Ž¬2J$df2a154e-6162-4929-8c03-e2e4e8187d9b
+l
+java:S14813")Remove this unused "wait" local variable.(­šæ°8Ÿå¨Ž¬2J$a1af52ab-f368-41cd-bc4e-7a758787bc53
+r	java:S1065"+Replace this use of System.out by a logger.(ì€Éëûÿÿÿÿ8¡å¨Ž¬2J$172dd2a9-76e6-4046-9ad0-fbabbe032192
+~	java:S1254"<This block of commented-out lines of code should be removed.(° õ8£å¨Ž¬2J$f37c147f-64e4-4b67-8523-c139a7e01e82
+m	java:S1066"+Replace this use of System.out by a logger.(áš”ø8¨å¨Ž¬2J$8db0c0f2-6d2a-4abc-af81-15b305fcbc08
+r	java:S1067"+Replace this use of System.out by a logger.(æ¤£‡üÿÿÿÿ8«å¨Ž¬2J$0183b877-66da-464c-ab62-d668aeaf7ea3
+m	java:S1068"+Replace this use of System.out by a logger.(Ø³˜¦8¯å¨Ž¬2J$57196174-f44f-4541-9f6a-8d6f98f784e6
+ƒ	java:S1259"<This block of commented-out lines of code should be removed.(¨°ÖÌþÿÿÿÿ8Áå¨Ž¬2J$6bbab83e-0725-4b0a-8ffc-25343892410c
+_
+java:S1116@"Remove this empty statement.(Ï¤Ä8áå¨Ž¬2J$612659d0-5c65-43d8-9fce-ecdcc3475e18
+r	java:S106G"+Replace this use of System.out by a logger.(ÏÅŸæùÿÿÿÿ8öå¨Ž¬2J$fd3a823a-01f9-4cb8-a00a-2a0e46dfe86c
+–
+java:S1128"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8–æ¨Ž¬2J$aa16dce4-dc8f-42ff-b4d7-d899297045d1

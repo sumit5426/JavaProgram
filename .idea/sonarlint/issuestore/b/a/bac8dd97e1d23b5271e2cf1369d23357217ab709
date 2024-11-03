@@ -1,0 +1,12 @@
+
+]
+java:S1220""Move this file to a named package.8ϊ£ντ¨2J$9f812340-1229-461a-8e5a-79a39d6e356d
+q
+java:S1172"/Remove these unused method parameters "a", "b".(δ¤νz8‚¤ντ¨2J$37ab625e-905e-481d-89a4-161435e5c990
+m	java:S106"+Replace this use of System.out by a logger.(Ί“Ξÿ8„¤ντ¨2J$6c09db5c-ba81-4262-a6a4-83fded66a2c1
+w
+java:S1172"/Remove these unused method parameters "a", "c".(‡–†Ϊύÿÿÿÿ8…¤ντ¨2J$6ad8d15d-18e8-40ec-8b0e-0ceebc43f671
+r	java:S106"+Replace this use of System.out by a logger.(ώΦ²΅ÿÿÿÿÿ8…¤ντ¨2J$720eb7ae-ce0b-41bd-9507-56d2f2e66be5
+|
+java:S1161":Add the "@Override" annotation above this method signature(δ¤νz8¤ντ¨2J$e7894175-9220-4d29-953e-d5ea1036db67
+r	java:S106"+Replace this use of System.out by a logger.(ΉΈΰ£ψÿÿÿÿ8‰¤ντ¨2J$de0b4dc8-74ac-4e99-8517-592bc182e26a

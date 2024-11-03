@@ -1,0 +1,9 @@
+
+_
+java:S1643"Use a StringBuilder instead.(¾íÈì8­·ò’®2J$d327faaa-1d9d-4b56-a45f-bfe0716c71f0
+]
+java:S1220""Move this file to a named package.8¯·ò’®2J$414f340b-f5bb-48f9-a687-1fec8ef5e0d6
+}
+java:S1854"5Remove this useless assignment to local variable "c".(¶¸øúÿÿÿÿ8Ê·ò’®2J$2bec4b90-4497-4cdb-b4bf-d9104de7f593
+m	java:S106"+Replace this use of System.out by a logger.(²Óş8Î·ò’®2J$77a6ff15-1ede-40ef-918f-e6c65a7df47a
+r	java:S106"+Replace this use of System.out by a logger.(‰¥óúÿÿÿÿ8Ò·ò’®2J$30847a5e-5614-4c42-be61-9aa96f7254ad

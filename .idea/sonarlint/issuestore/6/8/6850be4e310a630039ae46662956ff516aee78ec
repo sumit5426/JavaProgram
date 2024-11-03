@@ -1,0 +1,10 @@
+
+]
+java:S1220""Move this file to a named package.8’‚§ß©2J$9e651bde-c4a6-44a0-8490-9e6805c6921d
+m
+java:S2201"*The return value of "keySet" must be used.(ëŸèØ8ô‚§ß©2J$d9b13685-e531-45e4-9345-984d4fe6716b
+m
+java:S2201	"*The return value of "values" must be used.(®¶»Ý8õ‚§ß©2J$8dea6153-a35f-4de3-b114-41cf8afc0dc8
+m	java:S106
+"+Replace this use of System.out by a logger.(Ó÷‡—8˜Ú¨ß©2J$dcfd7f3c-d1ef-42cb-b377-880f6bcd5fed
+l	java:S106"+Replace this use of System.out by a logger.(ö¿Êe8þ‰ªß©2J$c4f34ed2-b2aa-4bbe-aa6b-c1a1004a6272

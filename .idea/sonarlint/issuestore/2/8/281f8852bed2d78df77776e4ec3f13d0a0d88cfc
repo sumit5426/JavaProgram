@@ -1,0 +1,9 @@
+
+]
+java:S1220""Move this file to a named package.8ΦΊ―Ν­2J$5159d98c-8644-4249-baf0-8e12048e5c07
+§
+java:S1149	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ενεΎÿÿÿÿÿ8ϋΊ―Ν­2J$d5042660-0a82-4978-a861-1998c304ee9b
+m	java:S106"+Replace this use of System.out by a logger.(²Σώ8„»―Ν­2J$88c581e8-1505-4fd2-9202-3c8057f04c20
+r	java:S106"+Replace this use of System.out by a logger.(υΪΡªωÿÿÿÿ8‡»―Ν­2J$b0bcc9a0-803b-4751-b853-4a3c2c0fc849
+m	java:S106"+Replace this use of System.out by a logger.(οϊ®8‡»―Ν­2J$7f38799f-6cba-4915-96a5-f8a30181d75c
+r	java:S106"+Replace this use of System.out by a logger.(§‚ϋύÿÿÿÿ8Έ¦²Ν­2J$d415f27a-666c-430a-9390-e10d2cecd8f6
