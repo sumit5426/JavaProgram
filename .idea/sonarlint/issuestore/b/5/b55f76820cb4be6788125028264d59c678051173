@@ -1,0 +1,7 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ§¥ä8Š¯Š²2J$bb789b14-0d1b-43c9-97fa-96bf6522094a
+‹
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ı¸’8Š¯Š²2J$c5f252f5-bb0c-44a6-ba20-05cae3610320
+G	java:S106"+Replace this use of System.out by a logger.(©ŸöÛ8£§°Š²2
+‚
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8¬Š¯Š²2J$c5b5b1c2-5bfd-40d0-be8a-b9053fe4deac

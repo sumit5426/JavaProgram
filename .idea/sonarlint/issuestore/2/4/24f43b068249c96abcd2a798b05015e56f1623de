@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ§¥ä8÷Ùóø±2J$3932de91-9e8f-4ca5-acdb-2286d8c4b29c
+’
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(‡ö¸ÿûÿÿÿÿ8ºÛóø±2J$b6b0085e-a2c9-47d0-908c-ab745abe15e4
+r	java:S106"+Replace this use of System.out by a logger.(©‹ëíúÿÿÿÿ8¥İóø±2J$f36d8845-40b1-416d-a301-b278aa0a1880
+‚
+java:S1128
+":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8¹İóø±2J$6dd6f4b2-491d-435c-957e-7f6fe8f51e8a
+w
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8¾İóø±2J$54f57b6a-028f-477b-b512-70516871a21f
