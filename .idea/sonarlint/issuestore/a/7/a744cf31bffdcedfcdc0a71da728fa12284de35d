@@ -1,0 +1,23 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠææŠýÿÿÿÿ
+N
+java:S18542"8Remove this useless assignment to local variable "wait".(­šæ°
+Q	java:S125"<This block of commented-out lines of code should be removed.(±†¶É
+V	java:S125"<This block of commented-out lines of code should be removed.(Ôµÿšÿÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(ö¶Ãôþÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(Öáå”üÿÿÿÿ
+A
+java:S1481("+Remove this unused "dpdown" local variable.(‡Ä§¡
+Q	java:S125)"<This block of commented-out lines of code should be removed.(ûîŸ‘
+E	java:S106,"+Replace this use of System.out by a logger.(Ø½ú¢úÿÿÿÿ
+?
+java:S14812")Remove this unused "wait" local variable.(­šæ°
+E	java:S1064"+Replace this use of System.out by a logger.(ì€Éëûÿÿÿÿ
+Q	java:S1253"<This block of commented-out lines of code should be removed.(° õ
+@	java:S1065"+Replace this use of System.out by a logger.(áš”ø
+E	java:S1066"+Replace this use of System.out by a logger.(æ¤£‡üÿÿÿÿ
+@	java:S1067"+Replace this use of System.out by a logger.(Ø³˜¦
+V	java:S1258"<This block of commented-out lines of code should be removed.(¨°ÖÌþÿÿÿÿ
+2
+java:S1116?"Remove this empty statement.(Ï¤Ä
+E	java:S106F"+Replace this use of System.out by a logger.(ÏÅŸæùÿÿÿÿ

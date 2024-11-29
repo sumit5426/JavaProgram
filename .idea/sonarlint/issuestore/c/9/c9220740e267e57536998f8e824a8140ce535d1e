@@ -1,14 +1,0 @@
-
-]
-java:S1220""Move this file to a named package.8ññ¨¬2J$dc1fbf85-6504-4544-bc06-b2a88a8ff69e
-…
-java:S3518"CMake sure this expression can't be zero before doing this division.(‚çµ}8çò¨¬2J$7b27a54f-eae0-4fc8-8092-dbb5b29f44ca
-w
-java:S1854"5Remove this useless assignment to local variable "b".(‚çµ}8…ó¨¬2J$dc8a38b6-5dd8-4e9b-afd0-3b1644dee21e
-i
-java:S1481"&Remove this unused "b" local variable.(Øİê±8‰ó¨¬2J$03481702-bd7c-4af2-8fd9-467758797b05
-r	java:S106	"+Replace this use of System.out by a logger.(¡ˆ»Úúÿÿÿÿ8˜ó¨¬2J$700511c8-b083-4c7c-9369-f99dd003a452
-r	java:S106
-"+Replace this use of System.out by a logger.(˜É„üÿÿÿÿ8œó¨¬2J$5a3d013e-c97a-4013-9c7f-8d6eac5250a6
-r	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8 ó¨¬2J$da99288c-0d07-450d-9623-c751995ebae5
-m	java:S106"+Replace this use of System.out by a logger.(Èø€»8¤ó¨¬2J$696a3d02-6112-4aa7-bcf3-a22aff3d705c

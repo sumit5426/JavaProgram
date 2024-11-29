@@ -1,14 +1,0 @@
-
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠææŠıÿÿÿÿ8äÚ¡¸±2
-w
-java:S1854"5Remove this useless assignment to local variable "c".(ŠÛl8®œ¸Ô§2J$bdb9abb1-9b8a-44cd-a810-f43e92bb1980
-m	java:S106"+Replace this use of System.out by a logger.(°ÿå8±œ¸Ô§2J$1dce4b88-899a-41b6-87c9-1bce4b64b52b
-~	java:S125"<This block of commented-out lines of code should be removed.(Ïş’÷8³œ¸Ô§2J$3884f9f2-be88-4236-8acf-a873a1ebbdc4
-h
-java:S1481"&Remove this unused "c" local variable.(ŠÛl8¶œ¸Ô§2J$589f7e15-89e3-4606-bfe2-b6a7b80218a0
-}	java:S125"<This block of commented-out lines of code should be removed.(¢‘¯8·œ¸Ô§2J$5489b9ea-e52a-4992-bc9f-ca5ad2a1341b
-m	java:S106"+Replace this use of System.out by a logger.(Ùõ—’8·œ¸Ô§2J$f62eb0e0-e997-42ba-8fd4-c8dc6df7273e
-r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8¸œ¸Ô§2J$221ca925-b671-401d-a04c-32b7147f216b
-r	java:S106"+Replace this use of System.out by a logger.(«Â†”ûÿÿÿÿ8¹œ¸Ô§2J$d2b6d4b7-f014-464b-8d1f-218925f9b370
-r	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8¹œ¸Ô§2J$cf1ed75e-be25-4c4a-8a6c-e88a4aa686cc
-ƒ	java:S125!"<This block of commented-out lines of code should be removed.(äóãÉÿÿÿÿÿ8¹œ¸Ô§2J$ff07d57c-4463-40a8-9017-c787f26f6d4e

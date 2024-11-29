@@ -1,6 +1,8 @@
 package Java_Coding_Programming;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
+
 
 public class MapInterface {
     public static void main(String[] args) {

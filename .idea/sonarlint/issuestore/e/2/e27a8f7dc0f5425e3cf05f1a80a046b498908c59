@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠææŠýÿÿÿÿ8ñ‡‡Ÿ²2J$fac51832-b5b2-4741-8971-64bc7f9e2df7
+m
+java:S2201"*The return value of "keySet" must be used.(ëŸèØ8‹ˆ‡Ÿ²2J$4bc5c055-12cc-45f8-9816-9564036b2453
+m
+java:S2201"*The return value of "values" must be used.(®¶»Ý8ˆš‡Ÿ²2J$0ef0a19e-7136-4eb8-941c-fe5587f10d2d
+m	java:S106"+Replace this use of System.out by a logger.(Ó÷‡—8’ˆ‡Ÿ²2J$3936d450-3ffe-4bac-814a-308eb3762344
+l	java:S106"+Replace this use of System.out by a logger.(ö¿Êe8‹š‡Ÿ²2J$a62bc192-ab85-409d-89d1-46626844b559

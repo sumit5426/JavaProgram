@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½•å¤ûÿÿÿÿ8¹ÆÛÇ·2J$e9cf1473-d005-4b12-af2a-3d998d74e173
+w
+java:S1854"5Remove this useless assignment to local variable "c".(ŠÛl8ÀÆÛÇ·2J$f51598b6-c993-4614-8d9b-a694db2be5e6
+m	java:S106"+Replace this use of System.out by a logger.(°ÿå8ÄÆÛÇ·2J$6bc41e4a-593f-4ee6-badd-bd284983b4e7
+~	java:S125"<This block of commented-out lines of code should be removed.(Ïş’÷8ÅÆÛÇ·2J$33cbad8b-49e1-4472-ad50-dee67dbf0f94
+h
+java:S1481"&Remove this unused "c" local variable.(ŠÛl8ÇÆÛÇ·2J$2f1eb2a3-cdae-469b-96dc-de3964bd09dd
+}	java:S125"<This block of commented-out lines of code should be removed.(¢‘¯8ÈÆÛÇ·2J$75053622-1f9a-4529-9eb8-02a9d641736a
+m	java:S106"+Replace this use of System.out by a logger.(Ùõ—’8ÊÆÛÇ·2J$6d971895-5af4-48a3-8377-e7079e5ffbc1
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8ÌÆÛÇ·2J$2b03575c-056a-4fdb-ab2f-b8891d4f46a0
+r	java:S106"+Replace this use of System.out by a logger.(«Â†”ûÿÿÿÿ8ÌÆÛÇ·2J$0e13d7f8-a4d3-4111-ba5e-536307d5d670
+~	java:S125"<This block of commented-out lines of code should be removed.(¼ö±8ÍÆÛÇ·2J$8225de2d-6d9d-4fc5-adc1-056748c31366
+ƒ	java:S125!"<This block of commented-out lines of code should be removed.(äóãÉÿÿÿÿÿ8ÍÆÛÇ·2J$55583eae-420a-4598-9cfc-1f795fcff28f

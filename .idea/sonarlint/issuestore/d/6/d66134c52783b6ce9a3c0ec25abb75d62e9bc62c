@@ -1,11 +1,0 @@
-
-]
-java:S1220""Move this file to a named package.8λυα¬2J$4af14b85-498c-4b4e-bfb6-80b155b0b3e6
-™
-java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(γψ©Ζώÿÿÿÿ8ύυα¬2J$0b8cf5c5-7b0b-4e31-96dc-839766d36379
-m	java:S106"+Replace this use of System.out by a logger.(²Σώ8„φα¬2J$0a5d0d78-8e98-4446-a0d7-3b29504a384a
-m	java:S106"+Replace this use of System.out by a logger.(¨—―8†φα¬2J$5caa294c-45e9-4859-9f80-35fd883ede32
-r	java:S106"+Replace this use of System.out by a logger.(Π‚ρΧÿÿÿÿÿ8‡φα¬2J$2ba16ebf-3d64-499b-88dd-1433eab98b5c
-r	java:S106"+Replace this use of System.out by a logger.(ϋΒόÿÿÿÿ8φα¬2J$340bd51b-cfbd-4bdb-b90c-5b3a8d234d8e
-m	java:S106"+Replace this use of System.out by a logger.(½αΨΔ8‰φα¬2J$6e6580b1-6d41-4e66-8f5e-a9f0a9b0cecf
-r	java:S106"+Replace this use of System.out by a logger.(Σ®Κ§ϊÿÿÿÿ8‹φα¬2J$0136d65d-2737-46a2-9df5-3cd6a5c6d386

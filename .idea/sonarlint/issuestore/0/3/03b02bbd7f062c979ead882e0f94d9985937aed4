@@ -1,11 +1,0 @@
-
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠææŠýÿÿÿÿ8‡Ü¡¸±2
-™
-java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æþÿÿÿÿ8˜›Þ’®2J$11ab37ea-9ca3-4afc-b7a9-7ca5cae0e465
-§
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(€‹áÈùÿÿÿÿ8ê³Ý’®2J$1222accd-53fd-4ec7-9629-7130c908ba73
-§
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(€‹áÈùÿÿÿÿ8‹´Ý’®2J$5b0d03d9-b93c-4b04-ad90-cf69f5f5b133
-r	java:S106"+Replace this use of System.out by a logger.(‰œ¼ãþÿÿÿÿ8¡´Ý’®2J$4ced6691-a80b-4c52-88df-3c1f9c28e922
-i
-java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8¤›Þ’®2J$9d1b5679-d234-48b8-b457-54d3f36ead39

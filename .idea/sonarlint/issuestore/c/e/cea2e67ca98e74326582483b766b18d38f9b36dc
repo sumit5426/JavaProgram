@@ -1,0 +1,15 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷¢“Žýÿÿÿÿ8À•Œ¿·2J$b4dbee61-ec28-47ec-b82a-a8d2b2613eb9
+r	java:S106"+Replace this use of System.out by a logger.(áô©Úøÿÿÿÿ8å•Œ¿·2J$935eae71-6812-4409-9941-6547635dd46f
+ˆ
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Ñ§Ï¢úÿÿÿÿ8è•Œ¿·2J$b9c5af05-e246-40fe-bc3c-64b5dae06b1b
+r	java:S106"+Replace this use of System.out by a logger.(Ñ§Ï¢úÿÿÿÿ8é•Œ¿·2J$c0992cb5-805b-4f54-a90b-f19a349eb237
+Â
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ÎùÖ¹þÿÿÿÿ8ë•Œ¿·2J$d8f371b5-181e-4e97-9aca-cdb61e6647cc
+m	java:S106"+Replace this use of System.out by a logger.(ì’æ¿8í•Œ¿·2J$af310ef4-493b-44ca-96e5-17e02d94c8a9
+m	java:S106"+Replace this use of System.out by a logger.(àØøñ8ï•Œ¿·2J$ffefac34-8560-4095-9b3f-463f60b7457b
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(¯ëá¼8ñ•Œ¿·2J$43fd26a3-9f7e-438a-b966-fee137a1d9ee
+ƒ
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(¯ëá¼8þ•Œ¿·2J$0ef00073-161b-435c-9ebf-84bdc33d939f
+G	java:S106"+Replace this use of System.out by a logger.(€‚ê–8Ò¬Ž¿·2

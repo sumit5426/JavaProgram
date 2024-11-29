@@ -1,0 +1,9 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ÂÔ¡ûÿÿÿÿ8‡°Â˜¶2J$2dbeb641-0889-42f8-a58b-f19d4e0874a0
+}
+java:S1854"5Remove this useless assignment to local variable "c".(¶¸øúÿÿÿÿ8ë°Â˜¶2J$39493ada-d9e7-45af-a4a7-52362fe1c08d
+n
+java:S1481"&Remove this unused "c" local variable.(¶¸øúÿÿÿÿ8ô°Â˜¶2J$ce3a0307-b941-4401-bffb-8ef79425fb1d
+r	java:S106
+"+Replace this use of System.out by a logger.(ö­Ïàøÿÿÿÿ8÷°Â˜¶2J$9a23e5de-2712-46cb-8a8f-37eda6234a6e
+r	java:S106"+Replace this use of System.out by a logger.(²»‹Šûÿÿÿÿ8÷°Â˜¶2J$da90a8fc-1f47-49dc-827a-d40b56b50570

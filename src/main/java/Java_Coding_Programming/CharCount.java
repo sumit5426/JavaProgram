@@ -23,27 +23,27 @@ public class CharCount {
                 charCountMap.put(c, charCountMap.getOrDefault(c, 0) + 1);
             }
         }
-int max=0;
-        char ch=' ';
+        int max = 0;
+        char ch = ' ';
         // Print the character counts
         for (Map.Entry<Character, Integer> entry : charCountMap.entrySet()) {
             System.out.println("Occurrences of '" + entry.getKey() + "' = " + entry.getValue());
-            if(entry.getValue()>max){
-                max=entry.getValue();
-                ch=entry.getKey();
+            if (entry.getValue() > max) {
+                max = entry.getValue();
+                ch = entry.getKey();
 
             }
-            System.out.println("maximum char is"+ch+"number is"+max);
+            System.out.println("maximum char is" + ch + "number is" + max);
         }
 
         //highest number of element
 
 
-        HashMap<Character,Integer> h=new HashMap<>();
-        h.put('c',34);
-        h.put('s',33);
-        for(Map.Entry<Character,Integer> entryy:h.entrySet()){
-            System.out.println(entryy.getKey()+entryy.getValue());
+        HashMap<Character, Integer> h = new HashMap<>();
+        h.put('c', 34);
+        h.put('s', 33);
+        for (Map.Entry<Character, Integer> entryy : h.entrySet()) {
+            System.out.println(entryy.getKey() + entryy.getValue());
         }
 
 

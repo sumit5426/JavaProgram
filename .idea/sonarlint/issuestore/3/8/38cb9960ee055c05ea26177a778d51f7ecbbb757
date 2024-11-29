@@ -1,4 +1,6 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïû‹çJ$572c7e2a-39cf-4b23-9f1f-9725979cd755
-ƒ
-java:S2094"BRemove this empty class, write its code or make it an "interface".(£ÌëşÿÿÿÿJ$f1c3f864-7240-40e4-8a7b-64e070e09e2d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïû‹ç8µİ÷ò¶2J$bc22a846-cb74-4d94-8579-ae9c1d26532a
+
+java:S3252"KUse static access with "java.awt.event.InputEvent" for "BUTTON1_DOWN_MASK".(Ó…‹8Í¸¥ó¶2J$d7b8f380-348d-4fc8-af38-89299ae20fc7
+“
+java:S3252"KUse static access with "java.awt.event.InputEvent" for "BUTTON1_DOWN_MASK".(şÌôùÿÿÿÿ8Ñ¸¥ó¶2J$9401e805-58f8-422b-9f8c-e40f8e9cd560

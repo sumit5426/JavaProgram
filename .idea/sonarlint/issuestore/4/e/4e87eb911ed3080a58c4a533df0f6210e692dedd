@@ -1,10 +1,0 @@
-
-d
-java:S1643	"Use a StringBuilder instead.(Éÿëƒúÿÿÿÿ8Á‚óØ§2J$07d55042-112d-4037-920b-053b869a97ca
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠææŠýÿÿÿÿ8ÃÖ¡¸±2
-‹
-java:S3973"HUse indentation to denote the code conditionally executed by this "for".(î¢„ï8È‚óØ§2J$352e70f9-c9f4-4bba-8075-29c1527d00c7
-ƒ	java:S125
-"<This block of commented-out lines of code should be removed.(Œ®˜¾üÿÿÿÿ8õ‚óØ§2J$c4b5402a-ec3d-4d43-a197-0515c7426944
-r	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8ø‚óØ§2J$f1af4e26-072a-4eb2-847f-655c0674628e
-m	java:S106"+Replace this use of System.out by a logger.(¯ô¢ô8ú‚óØ§2J$1326fe02-76a8-47cb-bdef-67e14bbfc041

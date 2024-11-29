@@ -1,4 +1,6 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïû‹ç
-X
-java:S2094"BRemove this empty class, write its code or make it an "interface".(¬Ú“¤
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïû‹ç8É³µ—¶2J$b5219493-f6f9-4a37-a65e-36c9fe82eb74
+X	java:S125"<This block of commented-out lines of code should be removed.(à…¦Š8ˆ™Ã—¶2
+l	java:S106"+Replace this use of System.out by a logger.(°Ÿ÷a8¼¶—¶2J$beab8865-00a5-40f5-b28d-aaa8e00353df
+d
+java:S1128"GRemove this unused import 'org.openqa.selenium.remote.RemoteWebDriver'.(ú£Ú—8§™Ã—¶2

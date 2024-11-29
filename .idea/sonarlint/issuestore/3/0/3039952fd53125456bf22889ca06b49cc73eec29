@@ -1,4 +1,7 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïû‹çJ$80b89b94-a7ee-4877-8ec9-d7469afbb30b
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(úƒ—¨8ÞÒ‰Œ²2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïû‹ç8ôÁËð¶2J$a8f5a627-acf6-41e8-832b-5ee1d3764177
+{
+java:S1854"8Remove this useless assignment to local variable "wait".(å·¡ö8’ÂËð¶2J$67500867-02db-47cb-a4a2-1154960910eb
+~	java:S125"<This block of commented-out lines of code should be removed.(ªÍ¾Ê8–ÂËð¶2J$62dcd009-50fc-49f4-8b9f-7f984536a5fc
+l
+java:S1481")Remove this unused "wait" local variable.(å·¡ö8´ÂËð¶2J$b95666be-bffd-4013-948f-f0fcdf8c52fe
