@@ -8,7 +8,7 @@ public class BubbleSorting {
         int temp;
         for (int i = 0; i < a.length; i++) {
             for (int j = 0; j < a.length - i - 1; j++) {
-                if (a[j] > a[j + 1]) {
+                if (a[j] > a[j + 1]) { //if we will change < from > then output will be in descending sorting
                     temp = a[j];
                     a[j] = a[j + 1];
                     a[j + 1] = temp;
