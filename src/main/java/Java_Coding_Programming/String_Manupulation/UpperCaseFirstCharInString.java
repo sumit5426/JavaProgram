@@ -1,6 +1,8 @@
 package Java_Coding_Programming.String_Manupulation;
 
-public class UpperCaseFirstCharInString {
+public class
+
+UpperCaseFirstCharInString {
     public static void main(String[] args) {
         String a = "selenium is a automation tool";
         String[] b = a.split(" ");

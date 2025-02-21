@@ -9,8 +9,8 @@ public class TryAndCatch {
         }
         catch(ArithmeticException e){
             System.out.println("exeption is occur");
-            System.out.println(e.getStackTrace());
             System.out.println(e.getMessage());
+            e.printStackTrace();
         }
         finally{
             System.out.println("finally block is executed");
